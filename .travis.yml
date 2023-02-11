@@ -8,3 +8,4 @@ node_js:
    local_dir: build
    on:
      branch: main
+     
